@@ -25,7 +25,7 @@ export const Contact: React.FC = () => {
             <p className="text-lg font-bold text-white group-hover:text-indigo-300 transition-colors">Vijayalaxmi Fadke</p>
           </a>
 
-          <a href="mailto:your-email@example.com" className="group flex flex-col items-center p-10 bg-zinc-900 border border-zinc-800 rounded-[2.5rem] hover:border-emerald-500/50 transition-all shadow-xl">
+          <a href="vijayalaxmifadke@gmail.com" className="group flex flex-col items-center p-10 bg-zinc-900 border border-zinc-800 rounded-[2.5rem] hover:border-emerald-500/50 transition-all shadow-xl">
             <div className="w-16 h-16 rounded-2xl bg-emerald-500/10 flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
               <Mail className="h-8 w-8 text-emerald-400" />
             </div>
